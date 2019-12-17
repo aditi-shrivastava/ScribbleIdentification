@@ -1,10 +1,18 @@
-# Scribble Prediction
+# Scribble Identification
 
 Models - CNN, MLP, GAN
 
 This project aims at predicting scribbles from canvas and also using GAN generated images.
 
 Idea was inspired from Kaggle's competition - https://www.kaggle.com/c/quickdraw-doodle-recognition/overview
+
+
+# Contributors
+
+* Aditi Shrivastava
+* Akash S Kunwar
+* Rohan Harode
+* Shubham Malik
 
 
 # Overview - 
